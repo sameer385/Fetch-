@@ -1,11 +1,11 @@
 
 import './App.css';
-import New from './New';
+import Fetch from './Fetch';
 
 function App() {
   return (
     <>
-      <New />
+      <Fetch />
     </>
   );
 }
