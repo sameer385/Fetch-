@@ -1,10 +1,11 @@
 
 import './App.css';
+import New from './New';
 
 function App() {
   return (
     <>
-      <first />
+      <New />
     </>
   );
 }
